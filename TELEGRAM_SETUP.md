@@ -123,4 +123,4 @@ The Telegram controller is fully integrated with your trading bot:
 - **Smart Alerts**: Conditional notifications based on settings
 - **Safety Checks**: Balance verification before starting
 
-Enjoy controlling your trading bot from anywhere! 🚀 
+ 
